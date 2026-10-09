@@ -90,4 +90,4 @@ GitHub: [@Raj-Yadav0101](https://github.com/Raj-Yadav0101)
 This project is currently under development. A license can be added when the project is ready for distribution.
 
 ## working ngrok link
-https://improving-smolder-politely.ngrok-free.dev
+https://pal-project-zeta.vercel.app/

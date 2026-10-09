@@ -31,6 +31,4 @@ Describe the purpose of this project and the problem it solves.
 * Keep API keys and secrets in environment variables.
 * Never expose private API keys in frontend code.
 
-## Future Improvements
 
-Add planned features here.
